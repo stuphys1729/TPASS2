@@ -18,5 +18,8 @@
     <ClCompile Include="TPAssignment2.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="TPAssignment2Crit.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
